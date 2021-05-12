@@ -45,12 +45,12 @@
         <?= lang('backend_section') ?>
     </a>
 
-    <div class="mt-4">
+    <!-- <div class="mt-4">
         <small>
             Powered by
             <a href="https://easyappointments.org">Easy!Appointments</a>
         </small>
-    </div>
+    </div> -->
 </div>
 
 <?php google_analytics_script() ?>
