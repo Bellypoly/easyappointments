@@ -129,7 +129,7 @@ body {
     height: 35px;
     width: 35px;
     float: left;
-    background: #225d4d;
+    background: #960c1a;
     padding: 8px;
     margin-right: 12px;
     margin-top: 6px;
@@ -145,7 +145,7 @@ body {
     font-size: 12px;
     display: block;
     text-align: center;
-    color: #0bb98d;
+    color: #ffffff;
     transition: all .3s linear;
     cursor: default;
 }
@@ -189,8 +189,8 @@ body {
 }
 
 #book-appointment-wizard #available-hours .selected-hour {
-    background-color: #439a82;
-    border-color: #439a82;
+    background-color: #bd2131;
+    border-color: #bd2131;
     color: white;
 }
 
@@ -228,7 +228,7 @@ body {
 }
 
 #book-appointment-wizard .captcha-title .fa-sync-alt:hover {
-    color: #1A865F;
+    color: #bd2131;
 }
 
 #book-appointment-wizard .captcha-image {

@@ -43,12 +43,12 @@
         <?= lang('backend_section') ?>
     </a>
 
-    <!-- <div class="mt-4">
-        <small>
+    <div class="mt-4">
+        <!-- <small>
             Powered by
             <a href="https://easyappointments.org">Easy!Appointments</a>
-        </small>
-    </div> -->
+        </small> -->
+    </div>
 </div>
 </body>
 </html>
